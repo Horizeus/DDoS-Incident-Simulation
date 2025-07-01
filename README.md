@@ -36,7 +36,7 @@ This project is a real-world simulation and analysis of a Distributed Denial of 
 
 ## 📎 Files
 
-- [`incident-report.pdf`](./incident-report.pdf) – The full incident analysis PDF
+- [`incident-report.pdf`](./incident-report-analysis.pdf) – The full incident analysis PDF
 - [`report.md`](./report.md) – Markdown version of the report (readable below)
 
 ---
